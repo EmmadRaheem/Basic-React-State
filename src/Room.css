@@ -1,0 +1,14 @@
+.room {
+    text-align: center;
+    height: 100vh
+}
+
+.lit {
+    background-color: white;
+    color: black;
+}
+
+.dark {
+    background-color: #000000;
+    color: white;
+}
